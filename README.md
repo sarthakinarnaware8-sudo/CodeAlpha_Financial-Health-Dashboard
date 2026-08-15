@@ -58,6 +58,7 @@ SME master financial dataset containing Income Statement, Balance Sheet, and Cas
 
 ## Dashboard Preview
 
+https://github.com/sarthakinarnaware8-sudo/CodeAlpha_Financial-Health-Dashboard/blob/main/Financial%20Health%20Dshboard%20screenshot.png
 ---
 
 ## Author
