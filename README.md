@@ -1,36 +1,36 @@
-# HR Analytics Dashboard
+# Financial Health Dashboard
 
 ## Project Overview
 
-This project is an interactive HR Analytics Dashboard developed using Power BI. It provides insights into employee performance, salary distribution, workforce demographics, and other HR metrics.
+This project is an interactive Financial Health Dashboard developed using Power BI. It provides insights into revenue performance, operating expense breakdowns, balance sheet liquidity, and profitability trends.
 
 ---
 
 ## Objectives
 
-* Analyze employee demographics
-* Compare salaries across departments
-* Evaluate employee performance
-* Analyze job satisfaction
-* Monitor overtime
+* Track total revenue and profitability margins
+* Analyze operating expenses across categories and departments
+* Monitor monthly financial performance and trends
+* Evaluate balance sheet liquidity and working capital
+* Drill down into cost structures using root-cause analysis
 * Build an interactive dashboard using Power BI
 
 ---
 
 ## Dashboard Features
 
-* Total Employees
-* Average Salary
-* Average Age
-* Average Experience
-* Average Performance Rating
-* Average Job Satisfaction
-* Employees by Department
-* Employees by Branch
-* Gender Distribution
-* Overtime Analysis
-* Employee Details Table
-* Interactive Slicers
+* Total Revenue
+* Gross Profit Margin
+* Net Profit Margin
+* Budget Revenue
+* Expense Breakdown by Category
+* Revenue Distribution by Stream
+* Transaction Volume by Region
+* Total Revenue and Total OpEx by Month
+* Net Profit Trend
+* Receivables vs. Payables
+* OpEx Breakdown Decomposition Tree
+* Interactive Filters and Slicers
 
 ---
 
@@ -43,20 +43,21 @@ This project is an interactive HR Analytics Dashboard developed using Power BI. 
 
 ## Dataset
 
-Employee dataset containing 75 employee records.
+SME master financial dataset containing Income Statement, Balance Sheet, and Cash Flow records.
 
 ---
 
 ## Project Files
 
-* HR_Analytics_Dashboard.pbix
-* Realistic_Employee_Master_75.xlsx
+* SME_Financial_Health_Dashboard.pbix
+* Code alpha 2nd task.xlsx
+* README.md
+* Financial Health Dashboard screeshot.png
 
 ---
 
 ## Dashboard Preview
 
-https://github.com/sarthakinarnaware8-sudo/CodeAlpha_Financial-Health-Dashboard/blob/main/Financial%20Health%20Dshboard%20screenshot.png
 ---
 
 ## Author
